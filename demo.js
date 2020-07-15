@@ -1,3 +1,4 @@
-function get () {
+function get () {}
+function sum() {
     
 }
